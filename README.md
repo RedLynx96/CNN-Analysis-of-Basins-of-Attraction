@@ -1,5 +1,5 @@
 
-# 🌀 Deep Learning-Based Analysis of Basins of Attraction 🌀
+# 🌀Deep Learning-Based Analysis of Basins of Attraction🌀
 
 This repository contains the tools and resources for analyzing basins of attraction using deep learning techniques. We explore fractal dimension, basin entropy, boundary basin entropy, and the Wada property through neural network-based methods. Feel free to explore our work, where we provide an in depth explanation of our findings.
 
@@ -100,18 +100,6 @@ Published in [International Journal of Bifurcation and Chaos, 2022 (Vol. 32, Iss
 DOI: [10.1142/S0218127422502005](https://doi.org/10.1142/S0218127422502005)
 
 ```bibtex
-@article{valle2022characterization,
-
-  title = {Characterization of Fractal Basins Using Deep Convolutional Neural Networks},
-  author = {David Valle, Alexandre Wagemakers, Alvar Daza, Miguel A. F. Sanjuán},
-  journal = {International Journal of Bifurcation and Chaos},
-  volume = {32},
-  number = {13},
-  year = {2022},
-  doi = {10.1142/S0218127422502005},
-  url = {https://doi.org/10.1142/S0218127422502005}
-}
-
 @article{valle2024deep,
   title={Deep learning-based analysis of basins of attraction},
   author={David Valle, Alexandre Wagemakers, Miguel A. F. Sanjuán},
@@ -122,5 +110,16 @@ DOI: [10.1142/S0218127422502005](https://doi.org/10.1142/S0218127422502005)
   year={2024},
   publisher={AIP Publishing},
   doi={10.1063/5.0159656}
+}
+
+@article{valle2022characterization,
+  title = {Characterization of Fractal Basins Using Deep Convolutional Neural Networks},
+  author = {David Valle, Alexandre Wagemakers, Alvar Daza, Miguel A. F. Sanjuán},
+  journal = {International Journal of Bifurcation and Chaos},
+  volume = {32},
+  number = {13},
+  year = {2022},
+  doi = {10.1142/S0218127422502005},
+  url = {https://doi.org/10.1142/S0218127422502005}
 }
 ```
