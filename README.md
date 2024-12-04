@@ -43,12 +43,11 @@ This script provides a GUI to compute metrics for basins of attraction from a `.
   - Results are saved in a new `.csv` file.
 
 - **Visualization**:  
-  - Basins can be visualized within the GUI. A demonstration video is included in the repository for reference.
+  - Basins can be visualized within the GUI. A demonstration GIF is included in the repository for reference.
 
-  <a href="media/Example.mkv">
-    <img src="media/Thumbnail.png" alt="Demo of Basin_predictor.py" width="500">
-  </a>
-
+  <div align="center">
+    <img src="media/Example.gif" alt="Demo of Basin_predictor.py">
+  </div>
 ---
 
 ### 2️⃣ **Basin_Metric_Training.py**
