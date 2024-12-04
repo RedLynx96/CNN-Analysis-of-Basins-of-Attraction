@@ -87,9 +87,9 @@ This script allows training a new CNN model.
 
 ---
 
-## 📜 Reference
+## 📜 References
 
-If you use this code in your work, please cite our paper:
+If you use this code in your work, please cite our papers:
 
 **David Valle, Alexandre Wagemakers, Miguel A. F. Sanjuán; *Deep learning-based analysis of basins of attraction*.**  
 Published in [Chaos, March 2024 (Vol. 34, Issue 3)](https://doi.org/10.1063/5.0159656).  
