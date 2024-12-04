@@ -1,5 +1,5 @@
 
-# 🌀Deep Learning-Based Analysis of Basins of Attraction🌀
+# Deep Learning-Based Analysis of Basins of Attraction
 
 This repository contains the tools and resources for analyzing basins of attraction using deep learning techniques. We explore fractal dimension, basin entropy, boundary basin entropy, and the Wada property through neural network-based methods. Feel free to explore our work, where we provide an in depth explanation of our findings.
 
