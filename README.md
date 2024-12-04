@@ -45,7 +45,7 @@ This script provides a GUI to compute metrics for basins of attraction from a `.
 - **Visualization**:  
   - Basins can be visualized within the GUI. A demonstration video is included in the repository for reference.
 
-  [![Demo of Basin_predictor.py](media\Thumbnail.png)](media\Example.mkv)
+  [![Demo of Basin_predictor.py](media/Thumbnail.png)](media/Example.mkv)
 
 ---
 
