@@ -1,0 +1,4 @@
+Name,Basin,FDim,Sb,Sbb,Wada
+Nf_a.mat,example_dataset\Newton_fractal\Nf_a.mat,1.43410625513476,0.19881038109706,0.792163403733731,1
+Nf_b.mat,example_dataset\Newton_fractal\Nf_b.mat,1.86545615747187,0.0896068383587698,0.714568088985405,1
+Nf_c.mat,example_dataset\Newton_fractal\Nf_c.mat,1.41696823083776,0.0110342597459245,0.71797562949871,1

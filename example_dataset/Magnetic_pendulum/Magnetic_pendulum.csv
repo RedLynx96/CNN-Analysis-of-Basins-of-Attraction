@@ -1,0 +1,4 @@
+Name,Basin,FDim,Sb,Sbb,Wada
+Mp_a.mat,example_dataset\Magnetic_pendulum\Mp_a.mat,1.7443138677062,0.731125790991068,0.840645024825309,1
+Mp_b.mat,example_dataset\Magnetic_pendulum\Mp_b.mat,1.43442607528346,0.36031394222484,0.669273567509574,0
+Mp_c.mat,example_dataset\Magnetic_pendulum\Mp_c.mat,1.55376594715553,0.465451935009204,0.732622681170974,0

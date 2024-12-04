@@ -1,0 +1,5 @@
+Name,Basin,FDim,Sb,Sbb,Wada
+Duff_a.mat,example_dataset\Duffing\Duff_a.mat,1.56223472540578,0.34697395722119,0.57402073834192,0
+Duff_b.mat,example_dataset\Duffing\Duff_b.mat,1.40417189849161,0.2221066255939,0.40158752239659,0
+Duff_c.mat,example_dataset\Duffing\Duff_c.mat,1.42354726240436,0.199028550949093,0.50704796542709,0
+

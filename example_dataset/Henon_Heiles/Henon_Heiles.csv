@@ -1,0 +1,4 @@
+Name,Basin,FDim,Sb,Sbb,Wada
+HH_a.mat,example_dataset\Henon_Heiles\HH_a.mat,1.46016719045935,0.346219791493435,0.692055986240212,0
+HH_b.mat,example_dataset\Henon_Heiles\HH_b.mat,1.50251347715314,0.199516068916191,0.709134728511031,1
+HH_c.mat,example_dataset\Henon_Heiles\HH_c.mat,1.5109775780672,0.189023726227895,0.702854667896518,0

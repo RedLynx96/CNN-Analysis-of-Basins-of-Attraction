@@ -1,0 +1,4 @@
+Name,Basin,FDim,Sb,Sbb,Wada
+Fp_a.mat,example_dataset\Forced_damped_pendulum\Fp_a.mat,1.80129112642553,0.438811976200308,0.660941041390994,0
+Fp_b.mat,example_dataset\Forced_damped_pendulum\Fp_b.mat,1.69046765585173,0.379796907851288,0.598355747277604,1
+Fp_c.mat,example_dataset\Forced_damped_pendulum\Fp_c.mat,1.90879008593709,0.0878871684125615,0.600568323169069,1
