@@ -1,0 +1,16 @@
+Name,Basin
+Duff_a.mat,example_dataset\Duffing\Duff_a.mat
+Duff_b.mat,example_dataset\Duffing\Duff_b.mat
+Duff_c.mat,example_dataset\Duffing\Duff_c.mat
+Fp_a.mat,example_dataset\Forced_damped_pendulum\Fp_a.mat
+Fp_b.mat,example_dataset\Forced_damped_pendulum\Fp_b.mat
+Fp_c.mat,example_dataset\Forced_damped_pendulum\Fp_c.mat
+HH_a.mat,example_dataset\Henon_Heiles\HH_a.mat
+HH_b.mat,example_dataset\Henon_Heiles\HH_b.mat
+HH_c.mat,example_dataset\Henon_Heiles\HH_c.mat
+Mp_a.mat,example_dataset\Magnetic_pendulum\Mp_a.mat
+Mp_b.mat,example_dataset\Magnetic_pendulum\Mp_b.mat
+Mp_c.mat,example_dataset\Magnetic_pendulum\Mp_c.mat
+Nf_a.mat,example_dataset\Newton_fractal\Nf_a.mat
+Nf_b.mat,example_dataset\Newton_fractal\Nf_b.mat
+Nf_c.mat,example_dataset\Newton_fractal\Nf_c.mat
