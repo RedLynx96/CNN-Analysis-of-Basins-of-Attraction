@@ -3,6 +3,10 @@
 
 This repository contains the tools and resources for analyzing basins of attraction using deep learning techniques. We explore fractal dimension, basin entropy, boundary basin entropy, and the Wada property through neural network-based methods. Feel free to explore our work, where we provide an in depth explanation of our findings.
 
+# Important Notice
+
+Please **download the trained model and the basins dataset** from the following Zenodo repository: [Zenodo Repository Link](https://zenodo.org/records/14357281).
+
 ---
 
 ## 🔧 Setting Up the Environment
